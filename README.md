@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=joeyang1512&show_icons=true&theme=dark)](https://github.com/joeyang1512/joeyang1512)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=joeyang1512&show_icons=true&theme=dracula)](https://github.com/joeyang1512/joeyang1512)
 
 
 [![309课题组(vue)](https://github-readme-stats.vercel.app/api/pin?username=joeyang1512&repo=309-group&show_icons=true&theme=merko)](https://github.com/joeyang1512/309-group)

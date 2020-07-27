@@ -1,6 +1,12 @@
 ### Hi there 👋
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=joeyang1512&show_icons=true&theme=radical)](https://github.com/joeyang1512/joeyang1512)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=joeyang1512&show_icons=true&theme=dark)](https://github.com/joeyang1512/joeyang1512)
+
+
+[![309课题组(vue)](https://github-readme-stats.vercel.app/api/pin?username=joeyang1512&repo=309-group&show_icons=true&theme=merko)](https://github.com/joeyang1512/309-group)
+[![电子书移动app](https://github-readme-stats.vercel.app/api/pin?username=joeyang1512&repo=joyang1512_ebook&show_icons=true&theme=merko)](https://github.com/joeyang1512/joyang1512_ebook)
+[![mini-games](https://github-readme-stats.vercel.app/api/pin?username=joeyang1512&repo=mini-games&show_icons=true&theme=merko)](https://github.com/joeyang1512/mini-games)
+
 
 <!--
 **joeyang1512/joeyang1512** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
